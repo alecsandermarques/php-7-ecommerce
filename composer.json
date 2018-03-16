@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\amcommerce\\php-classes\\src"
+            "Amcommerce\\": "vendor\\amcommerce\\php-classes\\src"
         }
     }
 }

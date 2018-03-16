@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    '' => array($vendorDir . '/amcommerce/php-classes/src'),
+    'Amcommerce\\' => array($vendorDir . '/amcommerce/php-classes/src'),
 );
